@@ -39,15 +39,15 @@ This is a simple **Tip Calculator** Android app built using **Java** and **XML**
 **Installation Instructions**
 -----------------------------
 
-1.  **Clone the repository from GitHub**
+1.  **Fork the repository** by clicking the **Fork** button at the top-right corner of this page.
+2.  **Clone the repository** to your local system:
 
-    ```
-    git clone https://github.com/your-username/TipCalculator.git
 
-    ```
+    `git clone https://github.com/your-username/CounterApp.git`
 
-2.  **Open the project in Android Studio**
-3.  **Run the app** on an emulator or a physical device
+3.  **Open the project in Android Studio**.
+4.  **Run the app** on an emulator or a physical device.
+5.  If you find this project helpful, don't forget to **Star ⭐ the repository**!
 
 * * * * *
 
